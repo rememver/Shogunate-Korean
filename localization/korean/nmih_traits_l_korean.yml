@@ -1,7 +1,7 @@
 ﻿l_korean:
  trait_immortality:0 "불로불사"
  trait_immortality_desc:0 "이 인물은 불로불사입니다"
- trait_immortality_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]は不老不死だ。"
+ trait_immortality_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 불로불사입니다"
  trait_child_of_adoption:0 "양자"
  trait_child_of_adoption_desc:0 "이 인물은 양자이며 아버지된 인물은 의부입니다"
  trait_child_of_adoption_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 양자이며 아버지로 된 인물은 의부입니다"
