@@ -1,0 +1,4 @@
+﻿l_korean:
+ SENGOKU_INVASION_CB_NAME:0 "[kingdom|E]을 침략"
+ SENGOKU_INVASION_WAR_NAME:0 "$ORDER$ [ATTACKER.GetPrimaryTitle.GetAdjective]의[TITLE.GetBaseName]침략"
+ SENGOKU_INVASION_WAR_NAME_BASE:0 "[ATTACKER.GetPrimaryTitle.GetAdjective][DEFENDER.GetPrimaryTitle.GetName]"
